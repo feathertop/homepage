@@ -183,6 +183,12 @@ bodyback {
 .navbar-custom .nav li.active a:hover {
 	color: #fff;
 }
+
+/*
+body.top-navigation-position-below-banner #navigation-bottom { 
+	position: fixed; top: 0; z-index: 5;}
+*/
+
 .btn {
   display: inline-block;
   padding: 15px 30px;
